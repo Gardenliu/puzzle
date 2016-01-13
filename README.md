@@ -8,10 +8,6 @@ You can use it for creating your personal pages and webApp.
 Without jQuery.Less than 9KB.
 
 
-Here are some examples
-
-[Mobile](http://henan.qq.com/zt/2014/loveHenan/index-mob.htm)
-
 Enjoy!
 
 ## Usage
